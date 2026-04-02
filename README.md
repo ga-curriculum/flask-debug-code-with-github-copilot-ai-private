@@ -35,7 +35,7 @@ tktk If there is not solution code related to this module this section and all o
 
 ### Course landing page
 
-- [Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/landing.html)
+- [Landing Page](https://ga-curriculum.github.io/tktk-module-name/canvas-landing-pages/landing.html)
 
 ### Resources
 
@@ -43,4 +43,4 @@ tktk If there is not solution code related to this module this section and all o
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
