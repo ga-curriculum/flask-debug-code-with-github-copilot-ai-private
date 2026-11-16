@@ -23,15 +23,11 @@ Flask Debug Code With Github Copilot
 
 ### Starter code
 
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🟢 [Starter code](./flask-ai-training-starter/)
 
 ### Solution code
 
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](./flask-ai-training-solution/)
 
 ### Course landing page
 
